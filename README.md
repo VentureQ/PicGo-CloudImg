@@ -1,1 +1,2 @@
-# PicGo-CloudImg使用GitHub和PicGo搭建图床
+# PicGo-CloudImg
+使用GitHub和PicGo搭建图床
